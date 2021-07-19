@@ -93,7 +93,8 @@ bool CMyApp::Init()
 
 	m_earth_texture.FromFile("assets/earth.jpg");
 	m_earth_height_map.FromFile("assets/earth_height_map.png");
-	m_moon_texture.FromFile("assets/moon.jpg");
+	//m_moon_texture.FromFile("assets/moon.jpg");
+	m_moon_texture.FromFile("assets/earth.jpg");
 	m_moon_height_map.FromFile("assets/moon_height_map.jpg");
 	m_sun_texture.FromFile("assets/sun.jpg");
 	
