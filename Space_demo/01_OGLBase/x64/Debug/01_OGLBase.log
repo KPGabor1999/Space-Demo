@@ -1,0 +1,9 @@
+﻿  MyApp.cpp
+C:\Users\KrazyXL\Desktop\Földgömb demó\01_OGLBase\MyApp.cpp(163,60): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  SkyBox.cpp
+  Generating Code...
+  01_OGLBase.vcxproj -> C:\Users\KrazyXL\Desktop\Földgömb demó\x64\Debug\01_OGLBase.exe
